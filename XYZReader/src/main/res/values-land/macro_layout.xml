@@ -1,0 +1,13 @@
+<resources>
+    <!-- list -->
+    <dimen name="menu_icon_padding">12dp</dimen>
+    <integer name="article_grid_columns">2</integer>
+    <dimen name="item_image_height">160dp</dimen>
+
+    <!-- detail -->
+    <dimen name="detail_photo_height">280dp</dimen>
+    <dimen name="detail_card_top_margin">224dp</dimen>
+    <dimen name="detail_inner_horiz_margin">112dp</dimen>
+    <dimen name="detail_card_vertical_margins">16dp</dimen>
+
+</resources>
