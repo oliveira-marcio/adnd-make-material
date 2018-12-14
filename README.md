@@ -1,4 +1,4 @@
-# Udacity Android Developer Nanodegree - Projeto 6
+# Udacity Android Developer Nanodegree - Projeto 6 (Make Your App Material)
 
 Este projeto teve como objetivo mudar o _design_ de um app existente (código inicial disponibilizado [aqui](https://github.com/udacity/xyz-reader-starter-code)) utilizando _guidelines_ do [Material Design](https://material.io/design/) para deixá-lo com uma interface mais atraente para os usuários.
 
@@ -18,4 +18,4 @@ Melhorias realizadas:
 
 ## Copyright
 
-Esse projeto foi desenvolvido por Márcio Souza de Oliveira em 09/02/2017.
+Esse projeto foi desenvolvido por Márcio Souza de Oliveira em 08/06/2017.
